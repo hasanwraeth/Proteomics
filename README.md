@@ -15,11 +15,11 @@ Proteomics analysis using:
 
 Total Ion Chromatogram (TIC) and Base Peak Intensity (BPI)  |  Extracted Ion Chromatogram (XIC)
 :-------------------------:|:-------------------------:
-![](https://github.com/hasanwraeth/scATAC/blob/main/)  |  ![](https://github.com/hasanwraeth/scATAC/blob/main/)
+![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/TIC.svg)  |  ![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/XIC.svg)
 
 2D MS1 precursor map  |  2d MS1 ion mobility heatmap
 :-------------------------:|:-------------------------:
-![](https://github.com/hasanwraeth/scATAC/blob/main/)  |  ![](https://github.com/hasanwraeth/scATAC/blob/main/)
+![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/bokeh_plot.png)  |  ![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/bokeh_plot2.png)
 
 
 
