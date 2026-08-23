@@ -53,6 +53,18 @@ Enrichment analysis (dot plot)
 :-------------------------:
 ![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot7.png)
 
+PCA scatter plot  |  t-SNE projection
+:-------------------------:|:-------------------------:
+![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot(4).png)  |  ![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot(9).png)
+
+UMAP projection  |  PCA loading plot  |  Scree plot
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot(10).png)  |  ![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot(6).png)  |  ![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot(8).png)
+
+Volcano plot (square cutoffs)  |  Volcano plot (nonlinear cutoffs)
+:-------------------------:|:-------------------------:
+![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot6.png)  |  ![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot5.png)
+
 
 ## Changelog
 ### - 2026-08-23
