@@ -21,7 +21,13 @@ Total Ion Chromatogram (TIC) and Base Peak Intensity (BPI)  |  Extracted Ion Chr
 :-------------------------:|:-------------------------:
 ![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/MS1_map.png)  |  ![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/bokeh_plot2.png)
 
+MS2 (MS/MS) spectrum |  Mirrored MS2 spectrum
+:-------------------------:|:-------------------------:
+![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/custom_image(2).svg)  |  ![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/custom_image(3).svg)
 
+Extracted Ion Chromatograms (XIC)  |  Ion mobility heatmaps
+:-------------------------:|:-------------------------:
+![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/custom_image2.svg)  |  ![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/ion_mob_hm.png)
 
 ## Changelog
 ### - 2026-08-23
