@@ -47,7 +47,7 @@ Pairwise correlation plot  |  Sample correlation matrix (heatmap)
 
 Volcano plot (square cutoffs)  |  Volcano plot (nonlinear cutoffs)
 :-------------------------:|:-------------------------:
-![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplo6.png)  |  ![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot5.png)
+![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot6.png)  |  ![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot5.png)
 
 Enrichment analysis (dot plot)
 :-------------------------:
