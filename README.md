@@ -37,6 +37,23 @@ Differential peptide coverage map
 :-------------------------:
 ![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot(1).png)
 
+Intensity histogram  |  Protein rank plot
+:-------------------------:|:-------------------------:
+![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot2.png)  |  ![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot8.png)
+
+Pairwise correlation plot  |  Sample correlation matrix (heatmap)
+:-------------------------:|:-------------------------:
+![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot3.png)  |  ![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot4.png)
+
+Volcano plot (square cutoffs)  |  Volcano plot (nonlinear cutoffs)
+:-------------------------:|:-------------------------:
+![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplo6.png)  |  ![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot5.png)
+
+Enrichment analysis (dot plot)
+:-------------------------:
+![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot7.png)
+
+
 ## Changelog
 ### - 2026-08-23
 - **Updated:** Scripts updated in line with new packages due to lack of support from legacy packages.
