@@ -69,6 +69,10 @@ Protein-Sample Heatmap  |  Protein-Protein Heatmap
 :-------------------------:|:-------------------------:
 ![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot(12).png)  |  ![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot(13).png)
 
+Protein per fraction per genotype  |  Protein profile per organelle
+:-------------------------:|:-------------------------:
+![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot(15).png)  |  ![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot(16).png)
+
 
 ## Changelog
 ### - 2026-08-23
