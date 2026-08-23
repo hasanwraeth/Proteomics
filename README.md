@@ -53,17 +53,21 @@ Enrichment analysis (dot plot)
 :-------------------------:
 ![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot7.png)
 
-PCA scatter plot  |  t-SNE projection
+PCA scatter plot  |  3D PCA loading plot
 :-------------------------:|:-------------------------:
-![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot(4).png)  |  ![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot(9).png)
+![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot(4).png)  |  ![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot(7).png)
 
-UMAP projection  |  PCA loading plot  |  Scree plot
+PCA loading plot  with vectors  |  PCA loading plot  |  Scree plot
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot(10).png)  |  ![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot(6).png)  |  ![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot(8).png)
+![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot(5).png)  |  ![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot(6).png)  |  ![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot(8).png)
 
-Volcano plot (square cutoffs)  |  Volcano plot (nonlinear cutoffs)
+t-SNE projection  |  UMAP projection
 :-------------------------:|:-------------------------:
-![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot6.png)  |  ![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot5.png)
+![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot(9).png)  |  ![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot(10).png)
+
+Protein-Sample Heatmap  |  Protein-Protein Heatmap
+:-------------------------:|:-------------------------:
+![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot(12).png)  |  ![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot(13).png)
 
 
 ## Changelog
