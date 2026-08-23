@@ -73,6 +73,9 @@ Protein per fraction per genotype  |  Protein profile per organelle
 :-------------------------:|:-------------------------:
 ![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot(15).png)  |  ![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot(16).png)
 
+Protein profile per fraction  |  Protein profile per organelle fraction  |  Proteomics data related to quality
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot(18).png)  |  ![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot(17).png)  |  ![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot(14).png)
 
 ## Changelog
 ### - 2026-08-23
