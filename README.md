@@ -29,6 +29,14 @@ Extracted Ion Chromatograms (XIC)  |  Ion mobility heatmaps
 :-------------------------:|:-------------------------:
 ![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/custom_image2.svg)  |  ![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/ion_mob_hm.png)
 
+Peptide coverage map  |  Lollipop plot (PTM/site plot)
+:-------------------------:|:-------------------------:
+![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot.png)  |  ![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot(2).png)
+
+Differential peptide coverage map
+:-------------------------:
+![](https://github.com/hasanwraeth/Proteomics/blob/main/fig/newplot(1).png)
+
 ## Changelog
 ### - 2026-08-23
 - **Updated:** Scripts updated in line with new packages due to lack of support from legacy packages.
